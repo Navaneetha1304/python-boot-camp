@@ -1,0 +1,41 @@
+Day 2:list
+list is a mutable means we can change and modify
+methods:
+var=[]
+1.append -we add at end of the list
+2.insert -insert the element at the particular position
+3.reverse-reverse the list using-1
+4.copy-copy the same list
+5.sorting-it sort the eleements in the list in
+6.pop-delete the elements in the last
+7.count-frequency(like elements
+//aggregate functions
+1.sum()
+2.min()
+3.max()
+4.count()
+ prgm1:
+my_list=[1,2,3,4]
+# my_list.append(999)
+my_list.insert(0,999)
+print(*my_list)
+
+prgm 2:
+my_list= [1,2,3,4] 
+#my_list.append (9999)
+#my_list.insert (8000,99)
+#print (len (my_list))
+my_list.pop(2)
+print(*my_list)
+
+pgrm3;
+my_list = [1,2,3,4]
+ #my_list.append (9999)
+my_list.insert(8000,999)
+print(len(my_list))
+print(*my_list)
+
+
+
+
+
